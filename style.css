@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #20709f;
+    
+}
+
+.title-name{
+    text-align: center;
+    background-color: blanchedalmond;
+
+}
+
+
+
+.recipe-list{
+    color: azure;
+}
+
+a{
+    color: azure;
+}
+
+footer{
+    background-color: antiquewhite;
+}
