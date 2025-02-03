@@ -1,26 +1,48 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #20709f;
+    /*
+    color: azure;
+    background: #eee;*/
+    background: #5199c3;
+    width: 900px;
+    margin: 20px auto;
     
 }
 
 .title-name{
-    text-align: center;
+    /*text-align: center;*/
     background-color: blanchedalmond;
+    color: black;
 
+}   
+
+img{
+    margin: 0px auto;
+    height: 400px ;
+    width: auto;
 }
 
-
-
+.recipe{
+    
+    font-size: 20px;
+    background: #fff;
+    padding: 15px 25px;
+}
 .recipe-list{
-    color: azure;
+    font-size: 20px;
+    margin: 20px auto;
+    padding: 15px 25px;
+    background: #fff;
 }
+
 
 a{
-    color: azure;
+    /*color: azure;*/
+    color: black;
 }
 
 footer{
     background-color: antiquewhite;
-    
+    color: black;
+   
 }
